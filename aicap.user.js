@@ -6,6 +6,7 @@
 // @author       SUFYAN
 // @match        ://*.ita-pak.blsinternational.com/*
 // @match        *://pakistan.blsspainglobal.com/*
+// @match        *://pakistan.blsspainglobal.com/asdsadsadas*
 // @match        https://newconfig.nocaptchaai.com/*
 // @updateURL    https://github.com/mrsufyanali/my-tampermonkey-scripts/raw/refs/heads/main/my-aicaptcha.user.js
 // @downloadURL  https://github.com/mrsufyanali/my-tampermonkey-scripts/raw/refs/heads/main/my-aicaptcha.user.js
